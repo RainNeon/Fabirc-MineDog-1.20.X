@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minedog-mod:minedog_block",
+    "minedog-mod:raw_minedog_block",
+    "minedog-mod:minedog_ore",
+    "minedog-mod:deep_minedog_ore",
+    "minedog-mod:nether_minedog_ore",
+    "minedog-mod:end_minedog_ore"
+  ]
+}

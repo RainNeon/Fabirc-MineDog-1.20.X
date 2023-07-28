@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minedog-mod:dogcoin"
+    }
+  },
+  "result": {
+    "item": "minedog-mod:minedog_block"
+  }
+}

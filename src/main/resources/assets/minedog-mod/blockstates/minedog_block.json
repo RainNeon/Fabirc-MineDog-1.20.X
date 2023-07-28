@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minedog-mod:block/minedog_block"
+    }
+  }
+}

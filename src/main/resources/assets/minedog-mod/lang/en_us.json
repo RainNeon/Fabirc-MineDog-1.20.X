@@ -1,0 +1,15 @@
+{
+  "item.minedog-mod.dogcoin": "DogCoin",
+  "item.minedog-mod.coconut": "Coconut",
+  "item.minedog-mod.raw_minedog": "Raw of MineDog",
+
+  "block.minedog-mod.minedog_block": "Block of MineDog",
+  "block.minedog-mod.raw_minedog_block": "Block of Raw MineDog",
+
+  "block.minedog-mod.minedog_ore": "Ore of MineDog",
+  "block.minedog-mod.deep_minedog_ore": "Deep ore of MineDog",
+  "block.minedog-mod.nether_minedog_ore": "Neither ore of MineDog",
+  "block.minedog-mod.end_minedog_ore": "End ore of MineDog",
+
+  "itemgroup.minedog": "Mine Dog Group"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minedog-mod:minedog_block"
+    }
+  ],
+  "result": {
+    "item": "minedog-mod:dogcoin",
+    "count": 9
+  }
+}

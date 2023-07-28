@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "msic",
+  "cookingtime": 200,
+  "experience": 1.5,
+  "ingredient": {
+    "item": "minedog-mod:raw_minedog"
+  },
+  "result": "minedog-mod:dogcoin"
+}
