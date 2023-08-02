@@ -13,6 +13,10 @@ import net.rainneon.minedog.MineDogMod;
 public class ModItemGroups {
     public static final ItemGroup MINEDOG_GROUP = Registry.register(Registries.ITEM_GROUP,
             new Identifier(MineDogMod.MOD_ID, "minedog"),
+            //使用 FabricItemGroup.builder()创建一个物品组构建器对象
+            //displayName() 设置名字
+            //Text.translatable("itemgroup.minedog")创建一个名为itemgroup.minedog的可翻译对象
+            //.icon()设置图标，这里写了lambda表达式创建一个ItemStack对象，给构造函数里传入了一个可转换物品参数
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.minedog"))
                     .icon(() -> new ItemStack(ModItems.DOGCOIN)).entries((displayContext, entries) -> {
                         //普通物品

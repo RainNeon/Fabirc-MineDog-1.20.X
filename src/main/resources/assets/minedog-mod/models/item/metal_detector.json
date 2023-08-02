@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minedog-mod:item/metal_detector"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-9.32, -9, 47],
+			"translation": [0, 4, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-6.47, 0.59, -46.76],
+			"translation": [0, 4, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [121.36, 2.04, -135.21]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-56.07, -3.35, -53.22]
+		},
+		"head": {
+			"rotation": [0, 0, 45],
+			"translation": [0, 14, 0]
+		}
+	}
+}
